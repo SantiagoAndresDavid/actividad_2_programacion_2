@@ -22,10 +22,6 @@ public class TercerPunto {
         System.out.printf("promedio es %.2f\n"+ prom);
         System.out.printf("el producto es: %.2f\n"+produc);
         System.out.printf("el cociente es: %.2f\n"+cociente);
-
-
-
-
     }
 }
 

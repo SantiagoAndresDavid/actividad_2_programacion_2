@@ -11,6 +11,5 @@ public class SeptimoPunto {
         gasto = input.nextInt();
         float porcentaje = ((gasto/ganacia) * 100);
         System.out.printf("el procentaje de utilidad es: ",porcentaje);
-
     }
 }

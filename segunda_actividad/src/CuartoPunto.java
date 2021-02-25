@@ -11,9 +11,5 @@ public class CuartoPunto {
         float  area = (float) (Math.PI *  Math.pow(radio,2));
         System.out.printf("La longitu: %.2f\n",longitud);
         System.out.printf("El area es: %.2f\n",area);
-
-
-
-
     }
 }

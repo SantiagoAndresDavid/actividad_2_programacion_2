@@ -1,4 +1,4 @@
-package com.unicesar;
+
 import java.util.Scanner;
 public class DecimoPunto {
     public static void main(String[] args) {

@@ -13,7 +13,5 @@ public class SegundoPunto {
         System.out.println("la suma de estos numeros es:"+ (num1 + num2) );
         System.out.println("la multiplicacion de estos numeros es: "+(num1+num2));
         System.out.println("la diferencia entre estos numeroes es: "+ (num1-num2) );
-
-
     }
 }
