@@ -18,10 +18,10 @@ public class TercerPunto {
         float cociente = ((num1/num2)/num3);
         float modulo = (num1%num2%num3);
 
-        System.out.println("la suma es: %.2f\n"+ suma);
-        System.out.println("promedio es %.2f\n"+ prom);
-        System.out.println("el producto es: %.2f\n"+produc);
-        System.out.println("el cociente es: %.2f\n"+cociente);
+        System.out.printf("la suma es: %.2f\n"+ suma);
+        System.out.printf("promedio es %.2f\n"+ prom);
+        System.out.printf("el producto es: %.2f\n"+produc);
+        System.out.printf("el cociente es: %.2f\n"+cociente);
 
 
 
